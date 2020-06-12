@@ -1,0 +1,20 @@
+#palette {
+    margin-bottom: 20px;
+  }
+  
+  #pixelArt {
+    display: table;
+    border: 5px solid black;
+  }
+  
+  .row {
+    display: table-row;
+  }
+  
+  .pixel,
+  .color {
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    display: table-cell;
+  }
